@@ -1,0 +1,1 @@
+This is a placeholder for pic18f46k22_comparator_example.c.
